@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Blog para publicar meus poemas."
   copyright = "MIT"
   sidebarAbout = [
-    "Meu nome e Leonardo Rodrigues, sou um desenvolvedor de softwares que gosta de escrever poemas.",
+    "Meu nome é Leonardo Rodrigues, sou um desenvolvedor de softwares que gosta de escrever poemas.",
     "Sou de Fortaleza, CE. Atualmente morando em Campinas, SP."
   ]
   # Contact page
@@ -42,17 +42,13 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Inicio"
+  name = "Home"
   url = "home/"
   home = true
 
   [[params.navlinks]]
   name = "Sobre"
   url = "sobre/"
-
-  [[params.navlinks]]
-  name = "Entre em contato"
-  url = "contato/"
 
   [params.social]
   facebook      = "https://www.facebook.com/leovictorsr"
