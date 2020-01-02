@@ -19,15 +19,15 @@ O mundo está quieto\
 Nao tem ninguem em casa\
 E o meu pensamento voa longe\
 
-Longe, e perto\
+Pra longe e pra perto\
 Pra ontem, quando não estava sozinho\
 
-Minha satisfacao nao dura muito\
+Minha satisfação não dura muito\
 Parece que estou sempre correndo\
-Quando paro, e tenho paz\
+Até que uma hora me canso, e paro\
 Tenho que lidar com meus sentimentos\
 
-Fantasmas do passado voltam\
+Meus medos do passado voltam\
 Me atormentam com o que já vivi\
 Meus ímpetos e desejos se desvanecem\
 Fico ansioso com os dias que virão\
@@ -35,6 +35,6 @@ Fico ansioso com os dias que virão\
 Mas lembro do seu rosto\
 Do seu sorriso\
 Do seu jeito de segurar minha mão\
-Da gravidade entre os nossos corpos\
+Da gravidade que existe entre os nossos corpos\
 
 Já não me sinto tão só\
