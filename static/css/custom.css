@@ -1,0 +1,7 @@
+p {
+  color: dimgrey !important;
+}
+
+h1, h1 > a, h4 > a {
+  color: #ff7473 !important;
+}
