@@ -19,7 +19,7 @@ Ele é regular, e infinito\
 Entre os momentos, ela sempre nos espera\
 A espera\
 
-E na espera que os pensamentos se alinham\
+É na espera que os pensamentos se alinham\
 Com os astros do céu\
 Os deuses da terra\
 O infinito do inferno\
